@@ -37,3 +37,23 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
+
+.kitty-1 {
+  /* Styles for class selector */
+}
+
+#kitty-2 {
+  /* Styles for ID selector */
+}
+
+#basket img {
+  /* Styles for descendant selector */
+}
+
+#ball + img {
+  /* Styles for adjacent sibling selector */
+}
+
+img[alt="Kitty 5"] {
+  /* Styles for attribute selector */
+}
